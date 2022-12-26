@@ -1,13 +1,17 @@
 # 0x02. Unity - Scripting
 ## Maze Game
 [`Game Demo`](https://titania792.github.io/holbertonschool-0x02-unity-scripting/)
+
 (Once on the game page press F12 and open the browser console to see your progress in the game).
 
 #### How to play
 
 Use WASD or the arrow keys to move the player around the map collecting coins, avoiding traps and reaching the goal.
+
 There are a total of 20 coins on the map, every time you collect one your score will add up to one point and a message will be displayed on the browser console.
+
 The player has a total of 5 health points, every time you interact with a trap your health will drop, once you lose all points the game will automatically restart.
+
 Once you reach the goal the message "You win!" will be displayed on the browser console.
 
 ## Project Tasks
